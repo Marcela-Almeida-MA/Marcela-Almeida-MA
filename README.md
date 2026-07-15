@@ -53,8 +53,7 @@ Projeto de e-commerce voltado para a loja Magnolia Almeida Bolsas & Acessórios.
 
 ## 📫 Contato
 
-- LinkedIn: [https://linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/marcela-almeida-65b40736b/)
-![Visitor Count](https://komarev.com/ghpvc/?username=https://www.linkedin.com/in/marcela-almeida-65b40736b/&color=blueviolet&style=flat-square)
+- LinkedIn: https://www.linkedin.com/in/marcela-almeida-65b40736b/)
 
 
 
