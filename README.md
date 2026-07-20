@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-   Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas<br/>
+   _Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas<br/>
    Desenvolvedora em formação, apaixonada por tecnologia, desenvolvimento de software e Inteligência Artificial<br/>
    Atualmente construindo projetos para meu portfólio com foco em Front-end, aplicações web e soluções para negócios
 </p>
