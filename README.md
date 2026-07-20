@@ -1,13 +1,13 @@
-<h1 align="center">Olá! Eu sou a Marcela Almeida</h1>
+<h1 align="center">Olá! 👋 Eu sou a Marcela Almeida</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Desenvolvedora+Front-end+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Apaixonada+por+IA+e+tecnologia+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-       Engenharia de Software e Análise e Desenvolvimento de Sistemas<br/>
-    Desenvolvedora em formação, apaixonada por tecnologia, desenvolvimento de software e Inteligência Artificial<br/>
-  Atualmente construindo projetos para meu portfólio com foco em Front-end, aplicações web e soluções para negócios
+   Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas<br/>
+   Desenvolvedora em formação, apaixonada por tecnologia, desenvolvimento de software e Inteligência Artificial<br/>
+   Atualmente construindo projetos para meu portfólio com foco em Front-end, aplicações web e soluções para negócios
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 <br/>
 
-## Painel Tecnológico
+##  Painel Tecnológico
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -55,7 +55,7 @@
 
 <br/>
 
-## Estatísticas do GitHub
+##  Estatísticas do GitHub
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Marcela-Almeida-MA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -64,18 +64,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marcela-Almeida-MA&theme=tokyonight&hide_border=true" />
-</p>
-
-<br/>
-
-##  Contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Marcela-Almeida-MA/Marcela-Almeida-MA/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Marcela-Almeida-MA/Marcela-Almeida-MA/output/github-contribution-grid-snake.svg" />
-    <img alt="cobrinha comendo os commits" src="https://raw.githubusercontent.com/Marcela-Almeida-MA/Marcela-Almeida-MA/output/github-contribution-grid-snake.svg" />
-  </picture>
 </p>
 
 <br/>
@@ -102,7 +90,7 @@
 
 <br/>
 
-## 🌱 Objetivos para 2026
+##  Objetivos para 2026
 - Desenvolver projetos completos para portfólio
 - Aprimorar conhecimentos em React e JavaScript
 - Estudar Back-end e bancos de dados
