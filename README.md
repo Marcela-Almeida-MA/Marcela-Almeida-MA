@@ -27,7 +27,7 @@
 
 <br/>
 
-## ✨ Painel Tecnológico
+##  Painel Tecnológico
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Obrigada por passar por aqui — fico feliz em compartilhar essa jornada! 💜
 
 <br/>
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 <table align="center">
 <tr>
@@ -75,7 +75,7 @@ Obrigada por passar por aqui — fico feliz em compartilhar essa jornada! 💜
 
 <br/>
 
-## 🛠️ Projetos em destaque
+##  Projetos em destaque
 
 <table>
 <tr>
@@ -102,7 +102,7 @@ E-commerce da loja Magnolia Almeida Bolsas & Acessórios.
 
 <br/>
 
-## 🌱 Objetivos para 2026
+##  Objetivos para 2026
 
 - 🎯 Desenvolver projetos completos para portfólio
 - ⚛️ Aprimorar conhecimentos em React e JavaScript
@@ -114,7 +114,7 @@ E-commerce da loja Magnolia Almeida Bolsas & Acessórios.
 
 <div align="center">
 
-## 📫 Vamos conversar?
+##  Vamos conversar?
 
 <a href="https://www.linkedin.com/in/marcela-almeida-65b40736b/">
   <img src="https://img.shields.io/badge/LinkedIn-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" />
